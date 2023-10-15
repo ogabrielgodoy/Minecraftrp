@@ -15,6 +15,14 @@
         {
             "source": "/feedback",
             "destination": "/feedback.html"
+        },
+        {
+            "source": "/tiktok",
+            "destination": "/tiktok.html"
+        },
+        {
+            "source": "/instagram",
+            "destination": "/instagram.html"
         }
     ]
 }
