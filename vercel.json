@@ -23,6 +23,10 @@
         {
             "source": "/instagram",
             "destination": "/instagram.html"
+        },
+        {
+            "source": "/jogar",
+            "destination": "/jogar.html"
         }
     ]
 }
