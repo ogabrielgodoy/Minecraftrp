@@ -27,6 +27,10 @@
         {
             "source": "/jogar",
             "destination": "/jogar.html"
+        },
+        {
+            "source": "/aleatorio",
+            "destination": "/aleatorio.html"
         }
     ]
 }
