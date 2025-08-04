@@ -1,4 +1,4 @@
-# 🌍 MinecraftRP — Roleplay Server Landing Page
+# MinecraftRP — Landing Page
 
 Este projeto é uma landing page moderna e responsiva desenvolvida para promover o servidor de Minecraft com foco em Roleplay. A proposta do site é apresentar a comunidade, regras, IP de conexão e principais destaques do servidor, identidade visual otimizada para web.
 
